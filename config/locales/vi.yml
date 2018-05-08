@@ -1,0 +1,8 @@
+vi:
+  static_pages:
+    home:
+      home: "Trang chủ"
+      about: "Giới thiệu"
+      help: "Hỗ trợ"
+      home_title: "Ví dụ đơn giản về Ruby on Rails"
+      

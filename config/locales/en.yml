@@ -30,4 +30,12 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  static_pages:
+    home:
+      home: "Home"
+      about: "About"
+      help: "Help"
+      ror_tutorial: "Ruby on Rails Tutorial"
+      
+
+
